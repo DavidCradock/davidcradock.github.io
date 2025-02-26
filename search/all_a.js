@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['m_0',['m',['../class_d_c_1_1_math_1_1_c_matrix.html#a704829b5a0a99f84e312951de54dbed8',1,'DC::Math::CMatrix']]],
+  ['main_20page_1',['Main Page',['../index.html',1,'']]],
+  ['mimaxx_2',['miMaxX',['../class_d_c_1_1_geometry_1_1_c_rect.html#aa72f38ed7af7b2f1bc4dbec48c24a2ec',1,'DC::Geometry::CRect']]],
+  ['mimaxy_3',['miMaxY',['../class_d_c_1_1_geometry_1_1_c_rect.html#a5137a1f3af4c9666c7ce0fc01bed56d4',1,'DC::Geometry::CRect']]],
+  ['miminx_4',['miMinX',['../class_d_c_1_1_geometry_1_1_c_rect.html#a8b2f3e8fa3aeebed427ca36d8ec4ba40',1,'DC::Geometry::CRect']]],
+  ['miminy_5',['miMinY',['../class_d_c_1_1_geometry_1_1_c_rect.html#ad70340bcf0014745a8db435cad0aa9de',1,'DC::Geometry::CRect']]],
+  ['modifypointcolour_6',['modifyPointColour',['../class_d_c_1_1_core_1_1_c_colour_ramp.html#abd4bc732c9474845f3d453fc79371eb9',1,'DC::Core::CColourRamp']]],
+  ['modifypointposition_7',['modifyPointPosition',['../class_d_c_1_1_core_1_1_c_colour_ramp.html#a5bdab236eb73e3068f5ed4e40e8d49b9',1,'DC::Core::CColourRamp']]],
+  ['mplanebottom_8',['mPlaneBottom',['../class_d_c_1_1_geometry_1_1_c_frustum.html#a3bd9f5065be323c063673e31e197cbf2',1,'DC::Geometry::CFrustum']]],
+  ['mplanefar_9',['mPlaneFar',['../class_d_c_1_1_geometry_1_1_c_frustum.html#aee80025467fc5b4c749cc742fa9b02ad',1,'DC::Geometry::CFrustum']]],
+  ['mplaneleft_10',['mPlaneLeft',['../class_d_c_1_1_geometry_1_1_c_frustum.html#a695ba4b2cf27d0a39b2ba1db1cceeeaa',1,'DC::Geometry::CFrustum']]],
+  ['mplanenear_11',['mPlaneNear',['../class_d_c_1_1_geometry_1_1_c_frustum.html#a453610d710bd74406d7bf47b46b9a66e',1,'DC::Geometry::CFrustum']]],
+  ['mplaneright_12',['mPlaneRight',['../class_d_c_1_1_geometry_1_1_c_frustum.html#a00d93f41a1349798d3e6b14fcd2d45f0',1,'DC::Geometry::CFrustum']]],
+  ['mplanetop_13',['mPlaneTop',['../class_d_c_1_1_geometry_1_1_c_frustum.html#ae3099af9d5849fd7e035378bae3e875e',1,'DC::Geometry::CFrustum']]],
+  ['mstrexception_14',['mstrException',['../class_d_c_1_1_core_1_1_c_exception.html#a7181528e4b1e2116f21c289bcc2f30a0',1,'DC::Core::CException']]],
+  ['multiply_15',['multiply',['../class_d_c_1_1_core_1_1_c_colourf.html#a407ac6091774fe9d6db4f14bf14c563c',1,'DC::Core::CColourf::multiply()'],['../class_d_c_1_1_math_1_1_c_matrix.html#ab9b3ac43701113f676639bc6b5216973',1,'DC::Math::CMatrix::multiply(const CMatrix &amp;matrix) const'],['../class_d_c_1_1_math_1_1_c_matrix.html#a0a8054e955d773f6703ca40aed7e6801',1,'DC::Math::CMatrix::multiply(const CVector3f &amp;vector) const'],['../class_d_c_1_1_math_1_1_c_matrix.html#a7d6d94ddf13967672b51d37b905f4d3d',1,'DC::Math::CMatrix::multiply(const CVector4f &amp;vector) const'],['../class_d_c_1_1_math_1_1_c_matrix.html#af48e4b6cf0bc506e97f67905375d4e38',1,'DC::Math::CMatrix::multiply(const float fScalar) const'],['../class_d_c_1_1_math_1_1_c_vector2f.html#aa9167c50adb0ad0238745588210f4dcd',1,'DC::Math::CVector2f::multiply()'],['../class_d_c_1_1_math_1_1_c_vector3f.html#ad9568e6e3887aaf3186c681b120ca479',1,'DC::Math::CVector3f::multiply()'],['../class_d_c_1_1_math_1_1_c_vector4f.html#a7c1e45b221f186759854f6cc795439e2',1,'DC::Math::CVector4f::multiply()']]],
+  ['mvdirection_16',['mvDirection',['../class_d_c_1_1_geometry_1_1_c_ray.html#ae8fb0635c9b460dd46aee08d80f1d184',1,'DC::Geometry::CRay']]],
+  ['mvecindices_17',['mvecIndices',['../class_d_c_1_1_geometry_1_1_c_triangle_mesh.html#a0a328505818ae540387135da7ff0d16a',1,'DC::Geometry::CTriangleMesh']]],
+  ['mvecvertices_18',['mvecVertices',['../class_d_c_1_1_geometry_1_1_c_triangle_mesh.html#a27efb7aa129e88d1d15676a7c463ff0f',1,'DC::Geometry::CTriangleMesh']]],
+  ['mvend_19',['mvEnd',['../class_d_c_1_1_geometry_1_1_c_line3_d.html#a9585841931acc4a92767b75cccaec226',1,'DC::Geometry::CLine3D']]],
+  ['mvorigin_20',['mvOrigin',['../class_d_c_1_1_geometry_1_1_c_ray.html#aeb7880da90e131ef76e1049d59bf4da5',1,'DC::Geometry::CRay']]],
+  ['mvstart_21',['mvStart',['../class_d_c_1_1_geometry_1_1_c_line3_d.html#af37d87baba61c62e6b4441aea05fe14e',1,'DC::Geometry::CLine3D']]]
+];
